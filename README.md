@@ -1,5 +1,5 @@
 # ryzen-loopfmax
-Ryzen Fmax Looper for V/F Curve tracking
+Ryzen Fmax Looper for V/F Curve tracking. More info here: https://skatterbencher.com/ryzen-loopfmax/.
 
 
 
